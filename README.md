@@ -12,3 +12,19 @@ I am going to write some more text.
 Here are some descriptions of the project that I am working on. You can find more details about my C# project here:
 
 [Trojan Travels](https://github.com/tajjav/Trojan-Travels-web)
+
+
+## Table of Contents
+* Week 1
+  * Day 1
+
+1. Item One
+2. Item Two
+3. Item Three
+
+
+
+
+
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
