@@ -6,3 +6,9 @@ This repository contains all of the notes taken by Tauqeer Jav for the lighthous
 
 
 I am going to write some more text.
+
+### Description
+
+Here are some descriptions of the project that I am working on. You can find more details about my C# project here:
+
+[Trojan Travels](https://github.com/tajjav/Trojan-Travels-web)
